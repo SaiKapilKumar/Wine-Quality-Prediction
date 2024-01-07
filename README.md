@@ -2,6 +2,13 @@
 
 This project is about predicting the quality of wine based on various features. The project uses several machine learning models from the sklearn library.
 
+- Logistic Regression
+- Stochastic Gradient Descent Classifier
+- Decision Tree Classifier
+- Random Forest Classifier
+
+Each model is trained and evaluated on the wine quality dataset. The performance of the models can be compared to choose the best one for this prediction task.
+
 ## Dependencies
 
 The project requires the following Python libraries:
