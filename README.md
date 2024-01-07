@@ -9,6 +9,8 @@ This project is about predicting the quality of wine based on various features. 
 
 Each model is trained and evaluated on the wine quality dataset. The performance of the models can be compared to choose the best one for this prediction task.
 
+[Link Description](http://your-live-link.com)
+
 ## Dependencies
 
 The project requires the following Python libraries:
@@ -43,3 +45,4 @@ To run the project, navigate to the project directory and run the following comm
 
 ```bash
 streamlit run main.py
+```
